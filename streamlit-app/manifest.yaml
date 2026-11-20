@@ -1,0 +1,3 @@
+version: 1
+name: "Federal Spending Intelligence"
+description: "An AI-powered federal spending analysis application using a Databricks Supervisor Agent and USAspending.gov MCP tools."
